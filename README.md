@@ -28,3 +28,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 **Licença**
 Este projeto é licenciado sob a Licença MIT.
+
+
+# https://charles-1337.github.io/69segredos/
+
+
